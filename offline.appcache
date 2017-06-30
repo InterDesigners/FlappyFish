@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1498839864
+#1498847110
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -61,5 +61,10 @@ media/ingame.m4a
 media/ingame.ogg
 media/menu.m4a
 media/menu.ogg
+freepixel-webfont.eot
+freepixel-webfont.svg
+freepixel-webfont.ttf
+freepixel-webfont.woff
+stylesheet.css
 NETWORK:
 *
