@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1498499453
+#1498793608
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -21,6 +21,8 @@ images/estalactite-sheet0.png
 images/estalactite-sheet1.png
 images/gema_spawner-sheet0.png
 images/gema-sheet0.png
+images/gema-sheet1.png
+images/gema-sheet2.png
 images/pedra-sheet0.png
 images/pedra-sheet1.png
 images/btn_start-sheet0.png
@@ -39,6 +41,16 @@ images/sprite2-sheet0.png
 images/player-sheet0.png
 images/tiledbackground16.png
 images/sprite6-sheet0.png
+images/sprite8-sheet0.png
+images/sprite8-sheet1.png
+images/sprite8-sheet2.png
+images/sprite9-sheet0.png
+images/sprite9-sheet1.png
+images/sprite10-sheet0.png
+images/sprite10-sheet1.png
+images/sprite10-sheet2.png
+images/sprite11-sheet0.png
+images/tiledbackground17.png
 media/gema00.m4a
 media/gema00.ogg
 media/gema01.m4a
