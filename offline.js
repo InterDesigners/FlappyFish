@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1498839864,
+	"version": 1498847110,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -61,6 +61,11 @@
 		"media/ingame.m4a",
 		"media/ingame.ogg",
 		"media/menu.m4a",
-		"media/menu.ogg"
+		"media/menu.ogg",
+		"freepixel-webfont.eot",
+		"freepixel-webfont.svg",
+		"freepixel-webfont.ttf",
+		"freepixel-webfont.woff",
+		"stylesheet.css"
 	]
 }
