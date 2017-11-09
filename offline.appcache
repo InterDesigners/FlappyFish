@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1499356288
+#1510251943
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -49,8 +49,10 @@ images/sprite9-sheet1.png
 images/sprite10-sheet0.png
 images/sprite11-sheet0.png
 images/tiledbackground17.png
-images/sprite12-sheet0.png
-images/sprite12-sheet1.png
+images/btn_sound-sheet0.png
+images/btn_sound-sheet1.png
+images/setar-sheet0.png
+images/setar-sheet1.png
 media/gema00.m4a
 media/gema00.ogg
 media/gema01.m4a
